@@ -1,0 +1,16 @@
+Product Name: TurboBook X1 Laptop
+
+Specifications:
+- Processor: Intel Core i7-1260P (12 cores, 4.7GHz Turbo)
+- RAM: 16GB DDR5
+- Storage: 1TB NVMe SSD
+- Display: 15.6" 4K OLED (3840x2160)
+- Battery: 80Wh (up to 12 hours)
+- OS: Windows 11 Pro
+
+Key Features:
+- Lightweight: 1.2 kg, magnesium alloy body.
+- Ports: 2x Thunderbolt 4, 1x HDMI, 1x USB-A.
+- Security: Fingerprint reader + IR camera for Windows Hello.
+
+Price: $1,299 (incl. 1-year warranty)

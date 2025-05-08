@@ -1,0 +1,14 @@
+Python is a high-level programming language created by Guido van Rossum in 1991. It emphasizes code readability and uses significant indentation. 
+
+Key Features:
+- Interpreted: No compilation needed; runs directly.
+- Dynamically typed: No need to declare variable types.
+- Versatile: Used for web development (Django, Flask), data science (Pandas, NumPy), AI (TensorFlow, PyTorch), and scripting.
+
+Popular Tools:
+- Jupyter Notebooks: Interactive coding environment.
+- Pip: Package installer for Python libraries.
+- Virtualenv: Isolated Python environments.
+
+Example Code:
+print("Hello, World!")

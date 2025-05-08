@@ -1,11 +1,22 @@
-# RAG Multi-Agent Assistant
+# RAG Multi-Agent Assistant with Ollama
 
-## How to Run
-1. Install dependencies: `pip install langchain faiss-cpu sentence-transformers streamlit PyDictionary`
-2. Pull an Ollama model: `ollama pull llama3`
-3. Add documents to `docs/` folder
-4. Run: `streamlit run app.py`
+A local Q&A assistant that combines RAG (Retrieval-Augmented Generation) with multi-agent tools (Calculator/Dictionary).
+![image](https://github.com/user-attachments/assets/b8fb6d05-3412-4bfc-9a0a-9a0473c2d44e)
 
-## Usage
-- Ask questions in the Streamlit interface.
-- The system routes to RAG, Calculator, or Dictionary automatically.
+
+![Demo Screenshot](https://via.placeholder.com/600x400?text=Streamlit+Interface+Preview)
+
+## 🚀 Quick Start
+
+### Prerequisites
+- Python 3.8+
+- [Ollama](https://ollama.ai/) installed and running
+
+### Installation
+```bash
+# 1. Clone this repo
+git clone https://github.com/Meenakshi2705/rag_assistant.git
+cd rag_assistant
+
+# 2. Install dependencies
+pip install -r requirements.txt  # Create this file with the packages below

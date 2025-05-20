@@ -4,7 +4,6 @@ A local Q&A assistant that combines RAG (Retrieval-Augmented Generation) with mu
 ![image](https://github.com/user-attachments/assets/b8fb6d05-3412-4bfc-9a0a-9a0473c2d44e)
 
 
-![Demo Screenshot](https://via.placeholder.com/600x400?text=Streamlit+Interface+Preview)
 
 ## 🚀 Quick Start
 
